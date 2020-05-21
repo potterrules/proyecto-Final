@@ -7,6 +7,8 @@ use Illuminate\Support\Facades\Route;
 | Web Routes rutas web xd
 sigo calando la merka a ver que pedo 
 
+probando 
+xd
 
 |--------------------------------------------------------------------------
 |
