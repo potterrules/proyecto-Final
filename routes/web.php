@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 |--------------------------------------------------------------------------
 | Web Routes rutas web xd
 sigo calando la merka a ver que pedo 
-
+vamos a calar merka de internet
 probando 
 xd
 creo que ya jalo esta madre
