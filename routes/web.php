@@ -9,6 +9,9 @@ sigo calando la merka a ver que pedo
 
 probando 
 xd
+creo que ya jalo esta madre
+vamos a ver que pedo, si guarda el cambio jeje
+
 
 |--------------------------------------------------------------------------
 |
