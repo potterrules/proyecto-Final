@@ -24,6 +24,8 @@ probando si jala la merka de guardar
 |merka
 xd
 
+prueba desde pc2
+
 */
 
 Route::get('/', function () {
