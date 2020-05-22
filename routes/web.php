@@ -28,6 +28,7 @@ aqui que onda
 
 prueba pc1
 haciendo prueba 2 pc1 de nuevo
+hola nueva rama este es un comentario
 */
 
 Route::get('/', function () {
