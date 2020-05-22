@@ -25,6 +25,8 @@ probando si jala la merka de guardar
 |merka
 xd
 aqui que onda
+
+prueba pc1
 */
 
 Route::get('/', function () {
