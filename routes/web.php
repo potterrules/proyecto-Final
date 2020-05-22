@@ -6,13 +6,14 @@ use Illuminate\Support\Facades\Route;
 |--------------------------------------------------------------------------
 | Web Routes rutas web xd
 sigo calando la merka a ver que pedo 
-
+vamos a calar merka de internet
 probando 
 xd
 creo que ya jalo esta madre
 vamos a ver que pedo, si guarda el cambio jeje
 
-
+probando merka chida alv
+desde web
 
 |--------------------------------------------------------------------------
 |
@@ -23,8 +24,8 @@ vamos a ver que pedo, si guarda el cambio jeje
 probando si jala la merka de guardar
 |merka
 xd
+aqui que onda
 
-prueba desde pc2
 
 */
 
