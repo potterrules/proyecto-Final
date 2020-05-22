@@ -24,7 +24,7 @@ desde web
 probando si jala la merka de guardar
 |merka
 xd
-
+aqui que onda
 */
 
 Route::get('/', function () {
